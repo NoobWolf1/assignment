@@ -1,6 +1,7 @@
 # Hypermart Checkout System
 
 A real-time queue management system for hypermart checkout counters that assigns customers to the checkout with the fewest items.
+[Click here to try the Hypermart Checkout System website.](https://noobwolf1.github.io/assignment/)
 
 ## Overview
 
